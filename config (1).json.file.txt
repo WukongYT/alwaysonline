@@ -1,0 +1,6 @@
+{
+	"ip":"Mystirosmp.aternos.ip",
+	"port": "21337",
+	"name": "ADMIN",
+	"auto-night-skip":"true"
+}
